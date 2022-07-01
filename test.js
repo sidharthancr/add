@@ -1,5 +1,5 @@
 /**
-* Tests for numeric stability
+* Tests for numeric stability simplilicyt
 */
 var algorithm = require('./')
   , test = require('tape')
